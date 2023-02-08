@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: a-sample-plugin-repo
+spec:
+  lifecycle: Alpha-JanusIDP
+  owner: team-JanusIDP
+  type: service
